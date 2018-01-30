@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(217, 217, 217);
+  margin: 0 auto;
+  padding: 100px;
+  font-family: monospace;
+}
+
+p {
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.border {
+  border: 4px dashed white;
+  color: white;
+  padding: 20px;
+  margin: 100px;
+}
+
+.none{
+  display: none;
+}
