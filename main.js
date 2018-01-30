@@ -47,7 +47,7 @@ const me = new Person('David', 29, 'NYC');
 const stranger = new Person();
 console.log(`This is an example of a Person: `, me);
 console.log(`This is example of a default Person:`, stranger);
-const meStudent = new Student('David', 29, 'NYC', 'Web Development.');
+const meStudent = new Student('David', 29, 'NYC', 'Web Development');
 const otherStudent = new Student();
 console.log(`This is an example of a Student: `, meStudent);
 console.log(`This is a description of Student with a major:`, meStudent.describePerson());
